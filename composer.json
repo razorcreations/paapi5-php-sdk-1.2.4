@@ -1,6 +1,7 @@
 {
-    "name": "thewirecutter/paapi5-php-sdk",
-    "description": "ProductAdvertisingAPI 5.0 PHP SDK",
+    "name": "razorcreations/paapi5-php-sdk-1.2.4",
+    "version" : "1.0.0",
+    "description": "ProductAdvertisingAPI 5.0 PHP SDK - AWS paapi5-php-sdk-1.2.4",
     "keywords": [
         "amazon",
         "pa-api",
